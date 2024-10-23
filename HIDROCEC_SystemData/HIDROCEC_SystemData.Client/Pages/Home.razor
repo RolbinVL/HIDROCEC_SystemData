@@ -1,7 +1,30 @@
 ﻿@page "/"
-
+@inject HttpClient Http
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Finanzas personales</h1>
+<br />
+Estado actual de la conexion actual
 
-Welcome to your new app.
+<br />
+<p>@conexionervidor </p>
+<p>@conexionUsuarios</p>
+
+@code {
+    string conexionervidor = "En espera...";
+    string conexionUsuarios = "En espera...";
+
+    async Task ProbarConexion()
+    {
+        var respuesta = await Http.GetStringAsync("https://localhost:7196/api/Usuario/ConexionServidor");
+        var respuestaUser = await Http.GetStringAsync("https://localhost:7196/api/Usuario/ConexionUsuario");
+        conexionervidor = respuesta;
+        conexionUsuarios = respuestaUser;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await ProbarConexion();
+    }
+
+}

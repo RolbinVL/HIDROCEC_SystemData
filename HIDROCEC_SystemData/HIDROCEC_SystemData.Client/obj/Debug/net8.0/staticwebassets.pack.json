@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\Debug\\net8.0\\compressed\\8kkj4xhrwy.gz",
+      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\Debug\\net8.0\\compressed\\8kkj4xhrwy.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HIDROCEC_SystemData.Client.bundle.scp.css",
+      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HIDROCEC_SystemData.Client.bundle.scp.css",
       "PackagePath": "staticwebassets\\HIDROCEC_SystemData.Client.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

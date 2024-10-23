@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\proyecto_principal\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\proyecto_principal\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AB834C81-E3A2-4B57-8A95-603B83C35BC4}|HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata\\hidrocec_systemdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B6E807-4269-4803-A869-EA92E1E381CB}|HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.csproj|solutionrelative:hidrocec_systemdata\\hidrocec_systemdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CF54F-6E80-453C-B4BD-20C18B7821E9}|HIDROCEC_SystemData.Shared\\HIDROCEC_SystemData.Shared.csproj|c:\\users\\user\\desktop\\ii ciclo\\pps\\hidrocec_systemdata\\mi rama\\hidrocec_systemdata\\hidrocec_systemdata.shared\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9CF54F-6E80-453C-B4BD-20C18B7821E9}|HIDROCEC_SystemData.Shared\\HIDROCEC_SystemData.Shared.csproj|solutionrelative:hidrocec_systemdata.shared\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Routes.razor",
-              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Routes.razor",
-              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Routes.razor",
-              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T21:17:39.438Z"
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\RolController.cs",
+              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\RolController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:16:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\appsettings.json",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\appsettings.json",
+              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T20:35:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:29:13.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Shared\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData.Shared\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Shared\\Models\\Usuario.cs",
+              "RelativeToolTip": "HIDROCEC_SystemData.Shared\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:16:40.715Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T20:56:15.261Z",
+              "WhenOpened": "2024-10-18T20:03:02.757Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "HIDROCEC_SystemData\\HIDROCEC_SystemData\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:46:37.591Z"
             }
           ]
         }

@@ -485,6 +485,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "HIDROCEC_SystemData.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HIDROCEC_SystemData.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HIDROCEC_SystemData.Shared.dll": {}
+        }
       }
     },
     "net8.0/browser-wasm": {
@@ -964,6 +974,16 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "HIDROCEC_SystemData.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HIDROCEC_SystemData.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HIDROCEC_SystemData.Shared.dll": {}
         }
       }
     }
@@ -1867,10 +1887,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "HIDROCEC_SystemData.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../HIDROCEC_SystemData.Shared/HIDROCEC_SystemData.Shared.csproj",
+      "msbuildProject": "../../HIDROCEC_SystemData.Shared/HIDROCEC_SystemData.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "HIDROCEC_SystemData.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.4",
       "Microsoft.NET.ILLink.Tasks >= 8.0.4",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.4"
@@ -1883,11 +1909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj",
       "projectName": "HIDROCEC_SystemData.Client",
-      "projectPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\HIDROCEC_SystemData.Client.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Proyecto_principal\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1908,7 +1934,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Shared\\HIDROCEC_SystemData.Shared.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\II Ciclo\\PPS\\HIDROCEC_SystemData\\Mi rama\\HIDROCEC_SystemData\\HIDROCEC_SystemData.Shared\\HIDROCEC_SystemData.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

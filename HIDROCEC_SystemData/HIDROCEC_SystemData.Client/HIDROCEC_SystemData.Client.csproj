@@ -12,4 +12,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\HIDROCEC_SystemData.Shared\HIDROCEC_SystemData.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

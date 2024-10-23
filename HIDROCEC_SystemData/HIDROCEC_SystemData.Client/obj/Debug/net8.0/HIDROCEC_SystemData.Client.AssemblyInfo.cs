@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HIDROCEC_SystemData.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3f1f51d17142a50620705a9284a27b664e8d577")]
 [assembly: System.Reflection.AssemblyProductAttribute("HIDROCEC_SystemData.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HIDROCEC_SystemData.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

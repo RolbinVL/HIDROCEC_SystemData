@@ -1,11 +1,21 @@
+using HIDROCEC_SystemData.Server.Data;
 using HIDROCEC_SystemData.Client.Pages;
 using HIDROCEC_SystemData.Components;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
+
+builder.Services.AddControllers(); //agregado
+builder.Services.AddHttpClient(); //agregado
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+}
+);
 
 var app = builder.Build();
 
@@ -25,7 +35,7 @@ app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 app.UseAntiforgery();
-
+app.MapControllers(); //agregado
 app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(HIDROCEC_SystemData.Client._Imports).Assembly);

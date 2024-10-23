@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\bin\Debug\net8.0\HIDROCEC_SystemData.Shared.deps.json
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\bin\Debug\net8.0\HIDROCEC_SystemData.Shared.dll
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\bin\Debug\net8.0\HIDROCEC_SystemData.Shared.pdb
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.AssemblyInfo.cs
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.sourcelink.json
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.dll
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\refint\HIDROCEC_SystemData.Shared.dll
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\HIDROCEC_SystemData.Shared.pdb
+C:\Users\User\Desktop\II Ciclo\PPS\HIDROCEC_SystemData\Mi rama\HIDROCEC_SystemData\HIDROCEC_SystemData.Shared\obj\Debug\net8.0\ref\HIDROCEC_SystemData.Shared.dll
